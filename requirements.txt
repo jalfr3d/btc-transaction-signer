@@ -1,0 +1,11 @@
+base58==2.1.1
+bit==0.8.0
+bitcoin==1.1.42
+certifi==2025.1.31
+charset-normalizer==3.4.1
+coincurve==21.0.0
+ecdsa==0.19.0
+idna==3.10
+requests==2.32.3
+six==1.17.0
+urllib3==2.3.0
