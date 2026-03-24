@@ -66,7 +66,3 @@ print("Raw Transaction Hex:", transaction_hex)
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-## ❤️ Donation
-bc1q9zntcdsum9mneum23uvwv8z34mzyj5j2r0m2ty
